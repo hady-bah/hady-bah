@@ -2,10 +2,6 @@
 <h3 align="center">Full stack developer from New York City</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/iTtJ7nAqpIcAAAAC/stray-coding.gif"> 
 
-- 🔭 I’m currently working on [Grids](https://github.com/hady-bah/grids-project)
-
-- 🌱 I’m currently learning **ReactJS**
-
 - 📫 How to reach me **hadymbah@gmail.com**
 
 - ⚡ Fun fact **I speak 3 languages**
