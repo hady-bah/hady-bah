@@ -1,10 +1,8 @@
-<h1 align="center">Hi 👋, I'm Hady Bah</h1>
+<h1 align="center">Hi 👋, I'm Hady</h1>
 <h3 align="center">Full stack developer from New York City</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/iTtJ7nAqpIcAAAAC/stray-coding.gif"> 
 
 - 📫 How to reach me **hadymbah@gmail.com**
-
-- ⚡ Fun fact **I speak 3 languages**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
